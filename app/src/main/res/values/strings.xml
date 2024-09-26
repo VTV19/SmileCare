@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SmileCare</string>
+    <string name="title_calendar">Календарь</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_notes">Записи</string>
+    <string name="your_email">Ваша почта:</string>
+    <string name="your_password">Ваш пароль:</string>
+    <string name="login">Войти</string>
+    <string name="forgot_password">Забыли пароль</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="registration">Регистрация</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="treatment_method">Метод лечения:</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="forgot_password_title">Забыли пароль?</string>
+    <string name="reset_password">Поменять пароль</string>
+    <string name="email_">Почта:</string>
+    <string name="password_">Пароль:</string>
+    <string name="name_">Имя:</string>
+    <string name="last_name_">Фамилия:</string>
+    <string name="support">Поддержка</string>
+    <string name="logout">Выход из аккаунта</string>
+
+    <string name="hint_input">Введите текст:</string>
+    <string name="low">Низкий</string>
+    <string name="medium">Средний</string>
+    <string name="high">Высокий</string>
+    <string name="save">Сохранить</string>
+    <string name="error_fields_empty">Пожалуйста, заполните все поля!</string>
+    <string name="save_event">Сохранить</string>
+
+    <array name="types_of_methods">
+        <item>Элайнеры</item>
+        <item>Брекеты</item>
+        <item>Ортодонтические пластинки</item>
+        <item>Капы</item>
+    </array>
+</resources>

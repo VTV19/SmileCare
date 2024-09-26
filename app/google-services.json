@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215744709804",
+    "project_id": "smilecare-87741",
+    "storage_bucket": "smilecare-87741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215744709804:android:b95eb2cc33501b9cf10b09",
+        "android_client_info": {
+          "package_name": "com.example.smilecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYhjIxRZFIVdK9lng-M8RjHYBXmxZDgKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
